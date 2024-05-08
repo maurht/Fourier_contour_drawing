@@ -7,7 +7,7 @@ I included a Jupyter notebook as a version to play with the setting and get the 
 
 For the image i used this was kinda easy but really for other images it might be a hazzle.
 
-Once that is out of the way i found it appropiate to first calculate the fourier coefficients separetely as they are the most labor intensive part of the process and after funning that a file with the coefficients will be created.
+Once that is out of the way i found it appropiate to first calculate the fourier coefficients separetely as they are the most labor intensive part of the process and after funning that a file with the coefficients will be created. This files can of course be reused so that the calculation does not have to be done many times for one set of coefficients.
 After that the main.py will create graphs where the veracity of the Fourier series is reprecented. 
 
 The maths were really not an issue as they're pretty straight forward, yet the part were i struggled the most is the image processing as this is the first project i worked with cv2.
