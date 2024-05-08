@@ -1,0 +1,3 @@
+L = 3.14159265
+n_degree = 5
+name = crop.png
