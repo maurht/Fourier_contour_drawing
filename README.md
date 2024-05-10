@@ -11,5 +11,4 @@ Once that is out of the way i found it appropiate to first calculate the fourier
 After that the main.py will create graphs where the veracity of the Fourier series is reprecented. 
 
 The maths were really not an issue as they're pretty straight forward, yet the part were i struggled the most is the image processing as this is the first project i worked with cv2.
-As the contour is just a well ordered set of points that if read from top to bottom or the other way around, in theory, the later part of the program could take care of any curve that it may be presented with, so the prat where the most improvement could go 
-is at the start.
+As the contour is just a well ordered set of points that if read from top to bottom or the other way around draw the intended image/contour, in theory, the later part of the program could take care of any curve that it may be presented with, so the part where the most improvement could go is where the contour is created.
